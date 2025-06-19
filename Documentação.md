@@ -4,7 +4,7 @@
 
 **Nome do Projeto:** API Sistema de Registro de Ponto  
 **Tema da API:** Gerenciamento de funcionários e registros de ponto eletrônico  
-**Integrantes:** [Nome dos integrantes e matrículas a serem preenchidos]
+**Integrantes:** Paulo Roberto Ribeiro Junior 2213084 e Raphael Turino
 
 ## Endpoints Implementados
 
